@@ -8,5 +8,12 @@
   "dependencies": {
     "@babel/types": "^7.21.5",
     "vue": "^3.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/XxDraggy/vue3-i18n/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XxDraggy/vue3-i18n"
   }
 }

@@ -1,4 +1,3 @@
 .npmignore
 public
-tsconfig.json
 node_modules
