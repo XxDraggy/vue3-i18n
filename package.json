@@ -1,0 +1,12 @@
+{
+  "name": "@xx_draggy/vue3-i18n",
+  "version": "1.0.2",
+  "description": "",
+  "main": "public/main.js",
+  "author": "Xx_Draggy",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/types": "^7.21.5",
+    "vue": "^3.3.2"
+  }
+}
